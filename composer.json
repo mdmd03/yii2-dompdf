@@ -1,0 +1,21 @@
+{
+    "name": "mohammadahmad/yii2-dompdf",
+    "description": "This is a yii2 extension for the dompdf plugin",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension","dompdf","pdf","html2pdf"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Mohammad Ahmad",
+            "email": "mohammad.h.ahmad@gmail.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "~2.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "mohammadahmad\\yii2Dompdf\\": ""
+        }
+    }
+}
